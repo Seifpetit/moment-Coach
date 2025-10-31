@@ -1,3 +1,22 @@
+### 🗓️ Build Timeline
+- **Day 1 – Environment + UI pulse**: Vite + React + Tailwind v4, Framer Motion; first pulsing circle running.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
