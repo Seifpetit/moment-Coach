@@ -1,6 +1,25 @@
 ### 🗓️ Build Timeline
 - **Day 1 – Environment + UI pulse**: Vite + React + Tailwind v4, Framer Motion; first pulsing circle running.
 
+# Moment Coach
+
+> A precision-tuned 2-minute environment that realigns human tempo.  
+> It doesn’t teach you control — it lets you experience it.
+
+---
+
+## 🧱 Philosophy — North Star
+“The world slows down. For a second you feel a pause — no pressure, realignment.”
+
+---
+
+## 🧩 Core Emotional Model
+Entry clusters: **restless • tired • flat • overthinking • curious**  
+Each maps to a **desired self-image**, **motion speed**, and **tone palette**.
+
+---
+
+## ⚙️ Interaction Architecture (Finite-State)
 
 
 
