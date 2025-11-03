@@ -21,6 +21,61 @@ Each maps to a **desired self-image**, **motion speed**, and **tone palette**.
 
 ## ⚙️ Interaction Architecture (Finite-State)
 
+- **Receive:** slow world; passive calming (motion ↓, copy ≤6 words)  
+- **Reclaim:** gentle options (“stay” / “shift”), low cognitive tax  
+- **Integrate:** brief reflection/affirmation; reinforce regained control  
+- **Exit:** dissolve + log minimal telemetry
+
+---
+
+## 💡 Behavioral Logic
+**Goal:** Regulation, not “fix.”  
+**Metrics:** ΔIntensity (0–10), Action Rate, Return Rate (D1/D3).
+
+---
+
+## 🎨 UX & Sensory Language *(in progress)*
+Principles: slow motion • micro-choice • mirror, don’t instruct.  
+**TODO:** motion curves, color tokens, microcopy per state.
+
+---
+
+## 🧠 Context Inference *(in progress)*
+Signals: time • device • idle/scroll rhythm.  
+**TODO:** lightweight, privacy-safe heuristics → initial state guess.
+
+---
+
+## 🧭 Framing & Narrative
+- **Concept:** precision-tuned, high signal-to-noise, 2-minute realignment  
+- **Tone:** quietly mind-blowing  
+- **Mission:** “It doesn’t teach you control — it lets you experience it.”
+
+---
+
+## 🔧 Remaining Layers
+| Layer | Status | Next Move |
+|:--|:--:|:--|
+| Visual Design System | ❌ | define rhythm / colors / animation curves |
+| Microcopy Library | ❌ | 3–5 phrases per state |
+| React Prototype | ❌ | implement state machine (XState/Zustand) |
+| Data / Logging | ❌ | local store + analytics events |
+| Demo Flow / Narration | ⚙️ | 30-sec walkthrough script |
+
+---
+
+## 🗺 Roadmap
+1) Design tokens & motion curves → 2) XState wiring → 3) ΔIntensity tracking → 4) GitHub Pages demo → 5) 30s VO demo.
+
+---
+
+## 📌 Status
+Design ≈ **70%** · Implementation ≈ **20%**
+
+---
+
+## 🤝 Contributing / Run Locally
+- **TODO:** add `pnpm dev` instructions once prototype lands.
 
 
 
